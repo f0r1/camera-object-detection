@@ -3,13 +3,13 @@ import numpy as np
 import argparse
 
 # Переменные для подключения к камере телефона через приложение droidcam (iOS,Android)
-ip = "192.168.1.100"
-port = 8496
+ip = "" # Введите ip камеры
+port =  # Введите порт камеры
 video_url = f'http://{ip}:{port}/video'
 
 # Загрузка cfg файла и весов модели YOLO v2 или v3 
-modelConfiguration = 'cfg/yolov2-tiny.cfg'
-modelWeights = 'weights/yolov2-tiny.weights'
+modelConfiguration = 'cfg/.cfg'
+modelWeights = 'weights/.weights'
 net = cv2.dnn.readNetFromDarknet(modelConfiguration, modelWeights)
 
 # Загрузка списка классов
