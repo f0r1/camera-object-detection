@@ -1,2 +1,3 @@
 # camera-object-detection
-real-time object detection algorithm that identifies specific objects in videos
+All Weights you can find on https://pjreddie.com/darknet/yolo/
+
