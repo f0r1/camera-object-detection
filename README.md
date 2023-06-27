@@ -33,7 +33,7 @@
 Этот проект лицензирован в соответствии с [MIT License](LICENSE).
 
 ## Примечание
-Пожалуйста, убедитесь, что у вас есть необходимые файлы и зависимости перед запуском скрипта. Если у вас возникнут вопросы или проблемы, не стесняйтесь задавать их в разделе [Issues](https://github.com/username/repository/issues) этого репозитория.
+Пожалуйста, убедитесь, что у вас есть необходимые файлы и зависимости перед запуском скрипта. Если у вас возникнут вопросы или проблемы, не стесняйтесь задавать их в разделе [Issues](https://github.com/f0r1/camera-object-detection/issues) этого репозитория.
 
 **Примечание**: Замените `username/repository` на фактическое имя вашего репозитория в ссылке выше.
 
@@ -76,7 +76,7 @@ Feel free to customize the script as per your requirements. You can adjust the c
 This project is licensed under the [MIT License](LICENSE).
 
 ## Note
-Please make sure you have the necessary files and dependencies before running the script. If you encounter any issues, feel free to raise them in the [Issues](https://github.com/username/repository/issues) section of this repository.
+Please make sure you have the necessary files and dependencies before running the script. If you encounter any issues, feel free to raise them in the [Issues](https://github.com/f0r1/camera-object-detection/issues) section of this repository.
 
 **Note**: Remember to replace `username/repository` with your actual repository name in the above link.
 
